@@ -1,7 +1,7 @@
 <h1 align="center">Hey, It's me Halima Tus Shadia</h1>
 <h3 align="center">A passionate Designer, Developer, Editor & Creator......!</h3>
 
-<img align="right" alt="cooding" width="400" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+<img align="right" alt="cooding" width="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcrystal00100&label=Profile%20views&color=0e75b6&style=flat" alt="darkcrystal00100" /> </p>
 
