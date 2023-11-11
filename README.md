@@ -1,12 +1,12 @@
-![A passionate Designer, Developer, Editor & Creator......!](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/400752863_122115366494087535_7486481744581945641_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=AKWHkSBIwJAAX-x9zxC&_nc_ht=scontent.fdac24-4.fna&oh=00_AfB0XcFZKz-0JvrQY3tpd99yEs1DiKDDy55k04B9t6O2pQ&oe=6554D81F)
+<img align="center" width="500" src="[https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/400752863_122115366494087535_7486481744581945641_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=AKWHkSBIwJAAX-x9zxC&_nc_ht=scontent.fdac24-4.fna&oh=00_AfB0XcFZKz-0JvrQY3tpd99yEs1DiKDDy55k04B9t6O2pQ&oe=6554D81F](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/400741323_122115380168087535_4839430515503056094_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mihNhEAsz84AX_kR31s&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAJeWBjC5nwsTebCVG05pIvEhx5RYUgKK1WotHklwBLbg&oe=655455C2](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/400741323_122115380168087535_4839430515503056094_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mihNhEAsz84AX_kR31s&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAJeWBjC5nwsTebCVG05pIvEhx5RYUgKK1WotHklwBLbg&oe=655455C2)">
 
-### Hey, It's me Halima Tus Shadia
-#### A passionate Designer, Developer, Editor & Creator......!
-![Profile views](https://gpvc.arturio.dev/DarkCrystal00100)  
+<h1 align="center">Hey, It's me Halima Tus Shadia</h1>
+<h3 align="center">A passionate Designer, Developer, Editor & Creator......!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcrystal00100&label=Profile%20views&color=0e75b6&style=flat" alt="darkcrystal00100" /> </p>
+ 
 
 I am a multi-talented professional with over 5 years of experience in Graphic Design, 3+ years in Front-end Development, 4+ years in Microsoft Office and 4+ years in Video Editing.
-
-Skills:  HTML / CSS / JS / C / C++ 
 
 - I’m currently working on Fiverr 
 - I’m currently learning Back-end Development 
@@ -17,7 +17,7 @@ Skills:  HTML / CSS / JS / C / C++
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkCrystal00100&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkCrystal00100&show_icons=true&theme=transparent)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DarkCrystal00100)  
 
