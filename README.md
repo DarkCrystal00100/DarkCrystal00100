@@ -1,33 +1,23 @@
-<h1 align="center">Hey, It's me Halima Tus Shadia</h1>
-<h3 align="center">A passionate Designer, Developer, Editor & Creator......!</h3>
+![A passionate Designer, Developer, Editor & Creator......!](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/400752863_122115366494087535_7486481744581945641_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=AKWHkSBIwJAAX-x9zxC&_nc_ht=scontent.fdac24-4.fna&oh=00_AfB0XcFZKz-0JvrQY3tpd99yEs1DiKDDy55k04B9t6O2pQ&oe=6554D81F)
 
-<img align="right" alt="cooding" width="400" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+### Hey, It's me Halima Tus Shadia
+#### A passionate Designer, Developer, Editor & Creator......!
+![Profile views](https://gpvc.arturio.dev/DarkCrystal00100)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcrystal00100&label=Profile%20views&color=0e75b6&style=flat" alt="darkcrystal00100" /> </p>
+I am a multi-talented professional with over 5 years of experience in Graphic Design, 3+ years in Front-end Development, 4+ years in Microsoft Office and 4+ years in Video Editing.
 
-- I’m currently working on **Fiverr**
+Skills:  HTML / CSS / JS / C / C++ 
 
-- I’m currently learning **Back-end Development**
+- I’m currently working on Fiverr 
+- I’m currently learning Back-end Development 
+- Contact me via E-mail: h.t.shadia.00100@gmail.com 
 
-- My all projects **https://www.pinterest.com/ht_shadia_00100/**
 
-- Contact me via Email **h.t.shadia.00100@gmail.com**
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/ht.shadia.00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ht.shadia.00100" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ht_shadia_00100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ht_shadia_00100/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/ht_shadia_00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/ht_shadia_00100" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ht_shadia_00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ht_shadia_00100" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@darkcrystal00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@darkcrystal00100" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/1166300111270330369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1166300111270330369" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DarkCrystal00100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ht.shadia.00100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ht_shadia_00100//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCy9du7U6ioKpLhyWQoMQ9QA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/1166300111270330369)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/ht_shadia_00100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg' alt='pinterest' height='40'>](https://www.pinterest.com/ht_shadia_00100/)  
 
-<br>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkcrystal00100&show_icons=true&locale=en" alt="darkcrystal00100" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkCrystal00100&show_icons=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkcrystal00100&" alt="darkcrystal00100" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=DarkCrystal00100)  
+
