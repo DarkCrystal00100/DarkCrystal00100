@@ -15,13 +15,6 @@ I am a multi-talented professional with over 5 years of experience in Graphic De
 - I’m currently learning Back-end Development 
 - Contact me via E-mail: h.t.shadia.00100@gmail.com
 <br>
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/ht.shadia.00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ht.shadia.00100" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ht_shadia_00100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ht_shadia_00100/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/1166300111270330369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1166300111270330369" height="30" width="40" /></a>
-</p>
-<br>
 <h3 align="left">My Top Technologies:</h3>
 <!-- TODO: Make technologies links takes you to repositories -->
 
