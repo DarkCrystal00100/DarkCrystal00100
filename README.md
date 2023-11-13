@@ -15,6 +15,7 @@ I am a multi-talented professional with over 5 years of experience in Graphic De
 - I’m currently learning Back-end Development 
 - Contact me via E-mail: h.t.shadia.00100@gmail.com
 <br>
+
 <h3 align="left">My Top Technologies:</h3>
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -32,6 +33,7 @@ I am a multi-talented professional with over 5 years of experience in Graphic De
 [![Javascript Badge](https://img.shields.io/badge/-MS_Word-00FFFF?style=for-the-MS_Word&logoColor=000000 )](#)
 [![Javascript Badge](https://img.shields.io/badge/-MS_Excel-00FFFF?style=for-the-MS_Excel&logoColor=000000 )](#)
 [![Javascript Badge](https://img.shields.io/badge/-MS_PowerPoint-00FFFF?style=for-the-MS_PowerPoint&logoColor=000000 )](#)
+<br>
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkCrystal00100&show_icons=true&theme=transparent)  
 <br>
