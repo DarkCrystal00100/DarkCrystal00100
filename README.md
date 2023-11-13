@@ -19,32 +19,28 @@ I am a multi-talented professional with over 5 years of experience in Graphic De
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/ht.shadia.00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ht.shadia.00100" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ht_shadia_00100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ht_shadia_00100/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/ht_shadia_00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/ht_shadia_00100" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ht_shadia_00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ht_shadia_00100" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@darkcrystal00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@darkcrystal00100" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/1166300111270330369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1166300111270330369" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">My Top Technologies:</h3>
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-HTML-00FFFF?style=for-the-html&logoColor=00FFFF)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-00FFFF?style=for-the-css&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-JavaScript-00FFFF?style=for-the-Javascript&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Photoshop-00FFFF?style=for-the-photoshop&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Illustrator-00FFFF?style=for-the-illustrator&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Canva-00FFFF?style=for-the-Canva&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Figma-00FFFF?style=for-the-Figma&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-XD-00FFFF?style=for-the-XD&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Davinci_Resolve-00FFFF?style=for-the-Davinci_Resolve&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-CapCut-00FFFF?style=for-the-CapCut&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-VN_Video_Editor-00FFFF?style=for-the-VN_Video_Editor&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-MS_Word-00FFFF?style=for-the-MS_Word&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-MS_Excel-00FFFF?style=for-the-MS_Excel&logoColor=00FFFF)](#)
-[![Javascript Badge](https://img.shields.io/badge/-MS_PowerPoint-00FFFF?style=for-the-MS_PowerPoint&logoColor=00FFFF)](#)
+[![Javascript Badge](https://img.shields.io/badge/-HTML-00FFFF?style=for-the-html&logoColor=000000 )](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-00FFFF?style=for-the-css&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-JavaScript-00FFFF?style=for-the-Javascript&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-Photoshop-00FFFF?style=for-the-photoshop&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-Illustrator-00FFFF?style=for-the-illustrator&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-Canva-00FFFF?style=for-the-Canva&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-Figma-00FFFF?style=for-the-Figma&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-XD-00FFFF?style=for-the-XD&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-Davinci_Resolve-00FFFF?style=for-the-Davinci_Resolve&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-CapCut-00FFFF?style=for-the-CapCut&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-VN_Video_Editor-00FFFF?style=for-the-VN_Video_Editor&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-MS_Word-00FFFF?style=for-the-MS_Word&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-MS_Excel-00FFFF?style=for-the-MS_Excel&logoColor=000000 )](#)
+[![Javascript Badge](https://img.shields.io/badge/-MS_PowerPoint-00FFFF?style=for-the-MS_PowerPoint&logoColor=000000 )](#)
 <br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkCrystal00100&show_icons=true&theme=transparent)  
-
+<br>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DarkCrystal00100)  
 
