@@ -11,7 +11,7 @@
 
 I am a multi-talented professional with over 5 years of experience in Graphic Design, 3+ years in Front-end Development, 4+ years in Microsoft Office and 4+ years in Video Editing.
 
-- I’m currently working on Fiverr 
+- I’m currently working on Upwork 
 - I’m currently learning Back-end Development 
 - Contact me via E-mail: h.t.shadia.00100@gmail.com
 <br>
