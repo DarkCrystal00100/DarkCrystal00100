@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Designer, Developer, Editor & Creator......!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcrystal00100&label=Profile%20views&color=0e75b6&style=flat" alt="darkcrystal00100" /> </p>
- <img align="right" width="500" src="https://github.com/DarkCrystal00100/DarkCrystal00100/assets/150428751/37ca8730-6ff5-47ee-b5db-121b5b11954a)](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/401125412_122115937304087535_1997011794809688366_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vCCi-ZRCacoAX-TosbB&_nc_ht=scontent.fdac24-2.fna&oh=00_AfBQo1fJdsbAeSXSy0yiU_NwFEmSy39ICK1jMBdpNpieIw&oe=6557AAF3](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/404632138_122119999766087535_3753776478810069756_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dSzxn_81IE0AX9yzZGs&_nc_ht=scontent.fdac24-2.fna&oh=00_AfDT5zVZ9JY6826fwQfdMO2DF1TFZdvpB1CP-RwLBNV_VA&oe=656A8139">
+ <img align="right" width="500" src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/404632138_122119999766087535_3753776478810069756_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dSzxn_81IE0AX9yzZGs&_nc_ht=scontent.fdac24-2.fna&oh=00_AfDT5zVZ9JY6826fwQfdMO2DF1TFZdvpB1CP-RwLBNV_VA&oe=656A8139">
 
 I am a multi-talented professional with over 5 years of experience in Graphic Design, 3+ years in Front-end Development, 4+ years in Microsoft Office and 4+ years in Video Editing.
 
